@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "Tum Hi Ho", "artist": "Arijit Singh", "duration": 235, "plays": 15000, "likes": 1200 },
+  { "id": 2, "title": "Shape of You", "artist": "Ed Sheeran", "duration": 252, "plays": 22000, "likes": 1900 },
+  { "id": 3, "title": "Blinding Lights", "artist": "The Weeknd", "duration": 200, "plays": 30000, "likes": 2500 },
+  { "id": 4, "title": "Kesariya", "artist": "Arijit Singh", "duration": 268, "plays": 18000, "likes": 1600 }
+]
+
+
+
+
